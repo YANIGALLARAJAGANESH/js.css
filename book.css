@@ -1,0 +1,39 @@
+* {
+    margin: 0%;
+}
+
+.bgimg1 {
+    background-image: url('https://res.cloudinary.com/dswzta8jh/image/upload/v1672638794/new-collection-fashion-sale-web-banner-template_120329-1507_zvmo8n.webp');
+    background-size: cover;
+    height: 130vh;
+}
+
+.head {
+    color: white;
+    border-color: transparent;
+    padding-left: 10px;
+    padding-top: 10px;
+    background-color: rgb(20, 51, 41);
+}
+
+.layoutcard {
+    background-color: white;
+    border-radius: 9px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.shoes {
+    width: 50px;
+    height: 50px;
+}
+
+.img {
+    width: 110px;
+    height: 110px;
+}
+
+.paraline {
+    color: black;
+    font-family: Roboto;
+}

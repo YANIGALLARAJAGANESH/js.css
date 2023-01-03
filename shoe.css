@@ -1,0 +1,42 @@
+    body {
+        background-color: transparent;
+    }
+    
+    .bgimage111 {
+        background-image: url('https://media.istockphoto.com/id/1081854066/photo/defocused-view-of-a-shoe-store.jpg?s=612x612&w=0&k=20&c=af43kBW_nlPEcOs-U75wAsrY873JdMfEt6u82Kg-OmY=');
+        background-size: cover;
+        height: 140vh;
+    }
+    
+    .one1 {
+        color: blue;
+        font-family: 'roboto';
+        font-size: 30px;
+        padding: 25px;
+        background-color: rgb(236, 6, 106);
+    }
+    
+    .layout {
+        background-color: rgba(242, 235, 18, 0.307);
+        border-bottom-left-radius: 12px;
+        border-bottom-right-radius: 12px;
+        margin: 100px;
+        margin-top: 15px;
+    }
+    
+    .text11 {
+        padding: 20px;
+    }
+    
+    .hello {
+        color: rgb(204, 44, 44);
+        font-family: 'Roboto';
+        font-size: 40px;
+        font-weight: bold;
+    }
+    
+    .linetext {
+        color: rgb(20, 20, 2);
+        font-family: 'Roboto';
+        font-size: 13px;
+    }

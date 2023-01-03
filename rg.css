@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+    background: url('https://wallpaperaccess.com/full/13189.jpg');
+    background-size: cover;
+}
+
+.form {
+    background: rgb(255, 0, 38);
+    text-align: center;
+    padding-top: 100px;
+    margin: 20px;
+    background-color: rgba(245, 245, 220, 0);
+    background-size: ;
+}
